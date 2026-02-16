@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace AutomationExercise.Core.Drivers;
 
-namespace AutomationExercise.Core.Drivers
+/// <summary>
+/// Supported browser types for test execution.
+/// Used by DriverFactory to determine which WebDriver to instantiate.
+/// </summary>
+public enum BrowserType
 {
-    internal class BrowserType
-    {
-    }
+    Chrome,
+    Firefox,
+    Edge
 }

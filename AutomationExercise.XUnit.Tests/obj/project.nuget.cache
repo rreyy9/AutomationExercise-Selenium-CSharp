@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2bzfFVhFOHA=",
+  "dgSpecHash": "6l41mEUSa/0=",
   "success": true,
   "projectFilePath": "C:\\dev\\AutomationPortfolio\\AutomationExercise.Selenium\\AutomationExercise.XUnit.Tests\\AutomationExercise.XUnit.Tests.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.3\\microsoft.extensions.configuration.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.3\\microsoft.extensions.configuration.binder.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\10.0.3\\microsoft.extensions.configuration.environmentvariables.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.3\\microsoft.extensions.configuration.fileextensions.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.3\\microsoft.extensions.configuration.json.10.0.3.nupkg.sha512",

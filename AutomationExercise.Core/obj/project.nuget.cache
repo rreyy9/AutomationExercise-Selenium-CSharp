@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7mMUI4oIIL0=",
+  "dgSpecHash": "l3qLhkB63hg=",
   "success": true,
   "projectFilePath": "C:\\dev\\AutomationPortfolio\\AutomationExercise.Selenium\\AutomationExercise.Core\\AutomationExercise.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kreso\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.3\\microsoft.extensions.configuration.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.3\\microsoft.extensions.configuration.binder.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\10.0.3\\microsoft.extensions.configuration.environmentvariables.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.3\\microsoft.extensions.configuration.fileextensions.10.0.3.nupkg.sha512",
     "C:\\Users\\kreso\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.3\\microsoft.extensions.configuration.json.10.0.3.nupkg.sha512",
