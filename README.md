@@ -1,6 +1,6 @@
 # AutomationExercise - Selenium WebDriver (C#)
 
-A professional Selenium WebDriver automation framework built with C#, demonstrating test implementation across three major .NET test frameworks: **NUnit**, **xUnit**, and **MSTest**.
+A Selenium WebDriver automation framework built with C#, demonstrating test implementation across three major .NET test frameworks: **NUnit**, **xUnit**, and **MSTest**.
 
 All test scenarios target [automationexercise.com](https://automationexercise.com/) and are implemented identically across each framework, allowing direct comparison of syntax, structure, and patterns.
 
@@ -13,8 +13,8 @@ All test scenarios target [automationexercise.com](https://automationexercise.co
 
 | Category | Technology |
 |---|---|
-| Language | C# / .NET 8.0 |
-| Automation | Selenium WebDriver 4.x |
+| Language | C# / .NET 10.0 |
+| Automation | Selenium WebDriver 4.40 |
 | Test Frameworks | NUnit, xUnit, MSTest |
 | Assertions | FluentAssertions |
 | Driver Management | WebDriverManager.Net |
@@ -59,11 +59,13 @@ AutomationExercise.Selenium/
 
 ## Prerequisites
 
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (or latest LTS)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) (Community or higher)
+- [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) (Community or higher, version 17.10+)
   - Workloads: *.NET desktop development*, *ASP.NET and web development*
 - [Google Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/firefox/), or [Microsoft Edge](https://www.microsoft.com/edge)
 - Git
+
+> **Note:** This solution uses the `.slnx` solution format, which requires Visual Studio 2022 version 17.10 or later.
 
 **Optional:** [VS Code](https://code.visualstudio.com/) with the C# Dev Kit extension for lightweight editing.
 
@@ -73,12 +75,12 @@ AutomationExercise.Selenium/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AutomationExercise-Selenium-CSharp.git
+git clone https://github.com/rreyy9/AutomationExercise-Selenium-CSharp.git
 cd AutomationExercise-Selenium-CSharp
 ```
 
 ### Open in Visual Studio
-1. Double-click `AutomationExercise.Selenium.sln`
+1. Double-click `AutomationExercise.Selenium.slnx`
 2. Visual Studio will automatically restore NuGet packages
 3. Build the solution: **Build → Build Solution** (Ctrl+Shift+B)
 
@@ -204,4 +206,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 <!-- TODO: Update with your details -->
-**Your Name** — [GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Kresimir Tataj** — [GitHub](https://github.com/rreyy9) | [LinkedIn](https://www.linkedin.com/in/krestataj/)
