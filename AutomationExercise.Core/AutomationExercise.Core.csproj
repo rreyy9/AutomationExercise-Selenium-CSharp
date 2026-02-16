@@ -16,12 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Drivers\" />
-    <Folder Include="Pages\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="Config\appsettings.CI.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

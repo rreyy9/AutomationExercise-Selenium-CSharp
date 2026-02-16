@@ -1,0 +1,58 @@
+## ----- IDE & Editors -----
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## ----- Build Results -----
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+bld/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+## ----- NuGet -----
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ----- Test Results -----
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+[Tt]est[Rr]esult*/
+coverage*/
+
+## ----- OS Files -----
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## ----- Misc -----
+*.cache
+*.tmp
+*.log

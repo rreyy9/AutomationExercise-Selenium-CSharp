@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="gitignore" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="AutomationExercise.Core/AutomationExercise.Core.csproj" />
   <Project Path="AutomationExercise.MSTest.Tests/AutomationExercise.MSTest.Tests.csproj" />
   <Project Path="AutomationExercise.NUnit.Tests/AutomationExercise.NUnit.Tests.csproj" />
